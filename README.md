@@ -1,5 +1,6 @@
 # MTproxy
 telegram专用Mt代理一键部署脚本(逗比根据地出品)
+# 暂未完全Fork
 原博客地址：https://doub.io/shell-jc7/
 # 最关键一步骤提醒：要你输入IP时，如果你是阿里云腾讯云谷歌云等大厂的，只要是NAT主机模式（ifconfig确定下你的公网IP，不是你一个在用这个IP的话），请输入ifconfig看到的你的主机内网地址。如果这都不懂，那呵呵呵。
 系统要求
